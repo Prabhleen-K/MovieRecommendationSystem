@@ -10,6 +10,6 @@ The dataset (ml-latest-small) is taken from [MovieLens](https://grouplens.org/da
 
 
 
-#### Collaborators:
+#### Contributors:
     -Prabhleen Kaur
     -Mansi Gautum
