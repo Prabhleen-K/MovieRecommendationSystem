@@ -7,3 +7,9 @@ A movie recommendation system based on hybrid approach.
 
 ### Dataset
 The dataset (ml-latest-small) is taken from [MovieLens](https://grouplens.org/datasets/movielens/), a movie recommendation service. It contains 100836 ratings and 3683 tag applications across 9742 movies. 
+
+
+
+#### Collaborators:
+    -Prabhleen Kaur
+    -Mansi Gautum
